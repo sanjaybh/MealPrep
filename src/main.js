@@ -4,7 +4,7 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 
-//Testing main file
+//Testing main file, edited from server
 Vue.config.productionTip = false;
 
 new Vue({
